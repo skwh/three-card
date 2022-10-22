@@ -12,14 +12,14 @@ Also known as:
 The goal of the game is to have no cards in your hand or playable for you.
 
 This is a "stacking game" where each player takes a turn to place a card on top
-of a pile. The card played must be of equal or higher value to the card below it, with
+of a** pile**. The card played must be of equal or higher value to the card below it, with
 exceptions for **special cards**.
 
 The order of turns is done counterclockwise, or from the left of the dealer.
 
 ### Card Values
 
-The order of card values is as follows, from the lowest value to the highest
+The order of card values is given below, from the lowest value to the highest
 value.
 1. 3
 2. 4
@@ -77,6 +77,10 @@ during their turn.**
 If a player does not have a card in their hand that is of equal or greater value
 than the card on the top of the pile, they must take the cards in the pile into
 their hand.
+
+Players may not lie about their ability to place a card. If the current player
+has a card that is of equal or greater value than the card on top of the pile,
+or a special value card, they must play.
 
 After a player has placed a card the players should check the pile to see if the
 following has occurred:
