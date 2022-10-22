@@ -12,7 +12,7 @@ Also known as:
 The goal of the game is to have no cards in your hand or playable for you.
 
 This is a "stacking game" where each player takes a turn to place a card on top
-of a** pile**. The card played must be of equal or higher value to the card below it, with
+of a **pile**. The card played must be of equal or higher value to the card below it, with
 exceptions for **special cards**.
 
 The order of turns is done counterclockwise, or from the left of the dealer.
@@ -141,6 +141,11 @@ the four-of-a-kind is greater than the value of the card on the top of the pile.
 four cards are played, the pile is removed from play and the player may play
 any card to start the pile again. In this way, four of a kind acts similar to a
 10.
+
+### Breaking up multiple of a kind
+
+A player may play more than one of the same card at the same time during a turn, but they are not
+required to.
 
 ### Rules for more than 4 players
 
