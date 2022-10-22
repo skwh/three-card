@@ -12,7 +12,7 @@ Also known as:
 The goal of the game is to have no cards in your hand or playable for you.
 
 This is a "stacking game" where each player takes a turn to place a card on top
-of a pile. The card must be of equal or higher value to the card below it, with
+of a pile. The card played must be of equal or higher value to the card below it, with
 exceptions for **special cards**.
 
 The order of turns is done counterclockwise, or from the left of the dealer.
@@ -47,15 +47,15 @@ Jokers are not used in this game.
 ### Game Setup
 
 From the left of the dealer, each player should be dealt two stacks of cards.
-The first stack of three cards should be dealt face down. This stack is called
-the **undercards** and it should not be turned over until later in the game.
+The first stack of three cards must be dealt face down without revealing them to
+any players. This stack is called the **undercards** or **bottom cards** and it should not be turned over until later in the game.
 The second stack consists of six cards.
 
-From their second pile, each player should choose three cards to form their **top
+From their second stack, each player should choose three cards to form their **top
 cards**. These three cards are placed face up on top of the undercards. These
 cards will be playable later in the game.
 
-The last three cards form the player's starting hand.
+The last three cards remaining form the player's starting hand.
 
 Once each player has chosen their top cards, the players must choose who begins
 play. From the left of the dealer, the first player who has the lowest value
@@ -136,6 +136,14 @@ the pile is greater than the value of the card on the top of the pile. Once all
 four cards are played, the pile is removed from play and the player may play
 any card to start the pile again. In this way, four of a kind acts similar to a
 10.
+
+### Rules for more than 4 players
+
+As noted, the game may be played with any number of players greater than 2. For
+each 4 players another deck of 52 cards must be added. This leads to the
+following rules for multiple decks:
+- You do not need to have all of the same kind of card in a row to trigger the
+  four-of-a-kind rule, it is still only four-of-a-kind.
 
 ### Goofy stuff
 
