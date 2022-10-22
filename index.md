@@ -114,17 +114,20 @@ then they win the game.
 It is permissible for a player to draw from the deck multiple separate times
 during their turn. For example:
 
-Player A has three cards in their hand: J, K, 2. The top card on the pile is A.
+Player X has three cards in their hand: J, K, 2. The top card on the pile is A.
 This player may:
 
 1. Play the 2.
 2. Draw from the deck so that they have three cards in their hand.
-3. Play another card from their hand & end the turn.
+3. Play another card from their hand.
+4. Draw from the deck so that they have three cards in their hand.
+5. End their turn.
 
 Or:
 
 1. Play the 2 and any other card in their hand on top of it.
 2. Draw from the deck so that they have three cards in their hand.
+3. End their turn.
 
 ### Playing all four of a kind
 
@@ -141,12 +144,14 @@ We have the following names for different things that happen in the game:
 
 - **The pile is removed from play**. This is called "blowing up the pile" or
   "kerchoo."
-- **Three sixes are played in a row.** You must scream "The number of the
+- **Three sixes are played in a row.** All players must scream "The number of the
   beast!"
-- **Three sevens are played in a row.** You must scream "The LUCKY number of the
+- **Three sevens are played in a row.** All players must scream "The LUCKY number of the
   beast!"
 - **Three sixes are played in a row, followed by the fourth six.** This is
   called an "exorcism."
 - **You are forced to pick up the pile multiple times because the player to your
   right keeps playing cards higher than what is in your hand**. This is called
   "being on the train."
+- **You are dealt an inital hand that has all low value cards in it.** You must
+  say "who the fuck dealt?"
