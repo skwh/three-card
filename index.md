@@ -102,7 +102,8 @@ Once a player has played all of the cards in their **top cards**, then, for each
 turn, they may randomly draw a card from their **under cards** and place it on the
 pile without looking at it first. If the drawn card's value is not equal to or
 greater than the card on the top of the pile, they must take the pile into their
-hand.
+hand. 2s, 10s, and four-of-a-kinds all have the same special properties & rules
+as in the previous phase.
 
 When a player no longer has any cards in their **top cards** or their **bottom cards**
 then they win the game.
@@ -132,7 +133,7 @@ Or:
 ### Playing all four of a kind
 
 A player may play all four of a kind during their turn, given that the value of
-the pile is greater than the value of the card on the top of the pile. Once all
+the four-of-a-kind is greater than the value of the card on the top of the pile. Once all
 four cards are played, the pile is removed from play and the player may play
 any card to start the pile again. In this way, four of a kind acts similar to a
 10.
@@ -144,6 +145,7 @@ each 4 players another deck of 52 cards must be added. This leads to the
 following rules for multiple decks:
 - You do not need to have all of the same kind of card in a row to trigger the
   four-of-a-kind rule, it is still only four-of-a-kind.
+- Players are dealt the same number of cards at the beginning of the game.
 
 ### Goofy stuff
 
